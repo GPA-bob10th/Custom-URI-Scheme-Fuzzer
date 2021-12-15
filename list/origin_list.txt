@@ -1,0 +1,16 @@
+store
+storejump
+library
+libraryjump
+launchgame
+launchgamejump
+launchgamertp
+friends
+settings
+redeem
+help
+addgame
+addfriend
+profile
+logout
+quit

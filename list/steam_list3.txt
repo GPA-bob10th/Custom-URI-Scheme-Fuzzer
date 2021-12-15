@@ -1,0 +1,17 @@
+<pass>
+<password(connect)>
+<addon>
+grid
+list
+collection
+details
+hideoffline
+showavatars
+sortbyname
+away
+busy
+invisible
+trade
+play
+offline
+online

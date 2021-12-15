@@ -1,0 +1,16 @@
+web
+library
+tools
+music
+screenshots
+downloads
+software
+allgames
+console
+ConsolePage
+view
+all
+url
+PostToLibrary
+details
+http
